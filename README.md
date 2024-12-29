@@ -24,10 +24,4 @@ I love exploring new tech and solving coding challenges. Also, I'm a firm believ
 
 ---
 
-### 📊 GitHub Stats (Dark Theme):
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanmishra&show_icons=true&theme=dark)
 
----
-
-### 📈 My GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanmishra&theme=dark)
