@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me:
 I'm a 1st-year B.Tech student at **KIET Ghaziabad**, passionate about open-source and technology.  
-Currently building skills in **C**, **HTML**, **CSS**, and soon to be diving into **JavaScript**.  
+Currently building skills in **C**, **HTML**, **CSS**, and **JavaScript**.  
 My dream? To crack **GSoC 2026** and contribute to amazing open-source projects! 🚀  
 
 ### 🔗 Connect with me:
