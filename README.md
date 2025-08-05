@@ -1,4 +1,4 @@
-### Hey devs, I'm Aryan! A passionate Full-Stack Web Developer
+### Hey devs, I'm ![ARYAN](https://img.shields.io/badge/ARYAN-007BFF?style=flat-square&logo=github&logoColor=white) — A passionate Full-Stack Web Developer
 
 <!-- Animated Blue Line -->
 ![blue-line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -19,7 +19,3 @@ Currently building skills in **C**, **HTML**, **CSS**, and **JavaScript**.
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
----
-
-
