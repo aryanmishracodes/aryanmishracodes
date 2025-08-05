@@ -1,4 +1,4 @@
-# Hi there, I'm Aryan Mishra 👋  
+<span style="color:#007BFF">Hi there, I'm Aryan Mishra 👋</span>
 
 <!-- Animated Blue Line -->
 ![blue-line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
