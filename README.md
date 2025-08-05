@@ -10,8 +10,7 @@ Currently building skills in **C**, **HTML**, **CSS**, and **JavaScript**.
 ### 🔗 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/realaryanmishra/)  
 
-### ⚡ Fun Fact:
-I love exploring new tech and solving coding challenges. Also, I'm a firm believer in the power of open source to change the world! 💻
+### ⚡ I love exploring new tech and solving coding challenges. Also, I'm a firm believer in the power of open source to change the world! 💻
 
 ---
 
